@@ -4,6 +4,6 @@ In this repository it is available the Python implementation for the detection o
 
 Example series with three change points.
 
-![Simulated series](https://github.com/nnarria/breakpointbayesian/blob/main/serieExamp.png).
+![Simulated series](https://github.com/nnarria/breakpointbayesian/blob/main/serieExample1.png).
 
 
