@@ -13,26 +13,10 @@ import os
 import matplotlib.dates as mdates
 import utilPlot as uplot
 
-
 #%%
 # Definir directorio de trabajo
 WORK_DIRECTORY = '/Users/nnarria/Documents/magister_estadistica_2019/memoria/work/github/nnarria/breakpointbayesian/'
 os.chdir(WORK_DIRECTORY)
-
-#%%
-# Para datos simulados
-# load dictionary
-data_fnct = pd.read_csv(WORK_DIRECTORY+'/data/Fmatrix.csv', decimal='.', 
-                        delimiter=',')
-data_fnct = data_fnct.iloc[:, 1:] # Excluir primera columnas (idx row)
-Fmatrix = np.array(data_fnct)
-
-
-# load serie example
-data_serie = pd.read_csv(WORK_DIRECTORY+'/data/dataExample1.csv', decimal='.', 
-                        delimiter=',')
-data_serie = np.array(data_serie)
-
 
 #%%
 # para los datos USD/CLP
