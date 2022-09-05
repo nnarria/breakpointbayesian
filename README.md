@@ -6,4 +6,8 @@ Example series with three change points.
 
 ![Simulated series](https://github.com/nnarria/breakpointbayesian/blob/main/images/serieExample1.png).
 
+To apply our method to this simulated series, execute the codes located in folder 'src' in this orden:
 
+1. Run the auxiliary functions: "dpc_segmentationFunctionalEffect.py".
+2. Run the auxiliary functions: "dpc_util_plot.py".
+3. Run the main function: "dpc_bayesian.py".
