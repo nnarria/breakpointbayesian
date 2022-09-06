@@ -13,6 +13,6 @@ Result, breakpoints selected.
 
 To apply our method to this simulated series, execute the codes located in folder 'src' in this orden:
 
-1. Run the auxiliary functions: "dpc_segmentationFunctionalEffect.py".
+1. Run the auxiliary functions: "dpc_segmentation_functional_effect.py".
 2. Run the auxiliary functions: "dpc_util_plot.py".
 3. Run the main function: "dpc_bayesian.py".
