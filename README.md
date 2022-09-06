@@ -4,12 +4,12 @@ In this repository it is available the Python implementation for the detection o
 
 Example series with three change points.
 
-![Simulated series](https://github.com/nnarria/breakpointbayesian/blob/main/images/simulated_serie_0.png).
+![Simulated series](https://github.com/nnarria/breakpointbayesian/blob/main/images/simulated_serie_0.png)
 
 
 Result, breakpoints selected.
 
-![Breakpoints selected](https://github.com/nnarria/breakpointbayesian/blob/main/images/resMH_0.png).
+![Breakpoints selected](https://github.com/nnarria/breakpointbayesian/blob/main/images/resMH_0.png)
 
 To apply our method to this simulated series, execute the codes located in folder 'src' in this orden:
 
